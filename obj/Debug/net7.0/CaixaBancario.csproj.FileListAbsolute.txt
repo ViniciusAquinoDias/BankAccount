@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\bin\Debug\net7.0\CaixaBancario.exe
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\bin\Debug\net7.0\CaixaBancario.deps.json
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\bin\Debug\net7.0\CaixaBancario.runtimeconfig.json
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\bin\Debug\net7.0\CaixaBancario.dll
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\bin\Debug\net7.0\CaixaBancario.pdb
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\obj\Debug\net7.0\CaixaBancario.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\obj\Debug\net7.0\CaixaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\obj\Debug\net7.0\CaixaBancario.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\obj\Debug\net7.0\CaixaBancario.AssemblyInfo.cs
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\obj\Debug\net7.0\CaixaBancario.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\obj\Debug\net7.0\CaixaBancario.dll
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\obj\Debug\net7.0\refint\CaixaBancario.dll
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\obj\Debug\net7.0\CaixaBancario.pdb
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\obj\Debug\net7.0\CaixaBancario.genruntimeconfig.cache
+C:\Users\cliente\Desktop\github\CaixaBancarioPooC#\CaixaBancario\obj\Debug\net7.0\ref\CaixaBancario.dll
